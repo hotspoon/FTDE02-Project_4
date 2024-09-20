@@ -14,3 +14,5 @@ venv/
 hasil_data.csv
 producer/New_Information.csv
 producer/Old_Information.csv
+
+.env
